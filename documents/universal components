@@ -1,0 +1,10 @@
+This document describes the universal components required for [basically] all CLI applications.
+
+### Core:
+
+- Command flags
+- Logging
+- Config
+- Data persistence (database/files)
+
+
