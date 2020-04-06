@@ -2,7 +2,8 @@ Firstly, I believe it is important to define what a "CLI application" is.
 
 I believe that once we erode all semantics, at the base level all CLI applications can be defined with just two categories;
 
-a. (subordinate) Relies on an API not native to the CLI binary
+a. (subordinate) Relies on an API not native to the CLI binary.
+
 b. (superior) Relies on it's internal API only
 
 For easy reference, I've simplified the definitions into "subordinate" and "superior" application types.
